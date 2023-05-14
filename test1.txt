@@ -1,3 +1,1 @@
-This is test1.txt file
-This is baris kedua dalam test1.txt
-MODIFIKASI
+MODIFIKASI di test1.txt
