@@ -1,0 +1,2 @@
+Ini adalah file test2.txt
+Ini baris kedua dari file test2.txt
